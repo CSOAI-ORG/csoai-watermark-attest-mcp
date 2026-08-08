@@ -4,6 +4,8 @@
 
 [![MEOK AI Labs](https://img.shields.io/badge/MEOK-AI%20Labs-667eea)](https://meok.ai)
 [![EU AI Act](https://img.shields.io/badge/EU%20AI%20Act-Compliant-22c55e)](https://councilof.ai)
+[![C2PA Member](https://img.shields.io/badge/C2PA-Contributor%20Member%20(LF)-d4a843)](https://c2pa.org)
+[![VAP Aligned](https://img.shields.io/badge/IETF%20VAP-Profile%20Proposed-0066cc)](https://datatracker.ietf.org/doc/draft-ailex-vap-legal-ai-provenance/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PyPI](https://img.shields.io/badge/PyPI-Install-3775a9)](https://pypi.org/project/meok_watermark_attest_mcp/)
 [![PyPI](https://img.shields.io/pypi/v/meok-watermark-attest-mcp)](https://pypi.org/project/meok-watermark-attest-mcp/) [![Python](https://img.shields.io/pypi/pyversions/meok-watermark-attest-mcp)](https://pypi.org/project/meok-watermark-attest-mcp/)
