@@ -3,7 +3,7 @@
 # Meok Watermark Attest MCP
 
 [![MEOK AI Labs](https://img.shields.io/badge/MEOK-AI%20Labs-667eea)](https://meok.ai)
-[![EU AI Act](https://img.shields.io/badge/EU%20AI%20Act-Compliant-22c55e)](https://councilof.ai)
+[![GSPC](https://img.shields.io/badge/GSPC-UNMEASURED-9ca3af)](https://councilof.ai/api/gspc)
 [![C2PA Member](https://img.shields.io/badge/C2PA-Contributor%20Member%20(LF)-d4a843)](https://c2pa.org)
 [![VAP Aligned](https://img.shields.io/badge/IETF%20VAP-Profile%20Proposed-0066cc)](https://datatracker.ietf.org/doc/draft-ailex-vap-legal-ai-provenance/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
